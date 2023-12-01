@@ -1,0 +1,189 @@
+.cosa {
+    background-color:#C3ACD0;
+}
+
+
+.li {
+    text-align: center;
+    color: mediumpurple;
+}
+
+/*EDICION DE LIBROS*/
+
+.libro1 {
+    width: 150px;
+    height: 200px;
+    position: relative;
+}
+
+.libro2 {
+    width: 150px;
+    height: 200px;
+}
+
+.libro3 {
+    width: 150px;
+    height: 200px;
+
+}
+
+.libro4 {
+    width: 150px;
+    height: 200px;
+}
+
+.libro5 {
+    width: 150px;
+    height: 200px;
+}
+
+.libro6 {
+    width: 150px;
+    height: 200px;
+    border-color: black;
+}
+
+.libro7 {
+    width: 150px;
+    height: 200px;
+}
+
+.libro8 {
+    width: 150px;
+    height: 200px;
+}
+
+.libro9 {
+    width: 150px;
+    height: 200px;
+}
+
+.libro10 {
+    width: 150px;
+    height: 200px;
+}
+
+.libro11 {
+    width: 150px;
+    height: 200px;
+}
+
+.libro12 {
+    width: 150px;
+    height: 200px;
+}
+
+.libro13 {
+    width: 150px;
+    height: 200px;
+}
+
+.libro14 {
+    width: 150px;
+    height: 200px;
+}
+
+.libro15 {
+    width: 150px;
+    height: 200px;
+}
+
+.libro16{
+    width: 150px;
+    height: 200px;
+}
+
+.libro17{
+    width: 150px;
+    height: 200px; 
+}
+
+.libro18{
+    width: 150px;
+    height: 200px;
+}
+
+.libro19{
+    width: 150px;
+    height: 200px;
+}
+
+.libro20{
+    width: 150px;
+    height: 200px;
+}
+
+.libro21{
+    width: 150px;
+    height: 200px;
+}
+
+.libro22{
+    width: 150px;
+    height: 200px;
+}
+
+.libro23{
+    width: 150px;
+    height: 200px;
+}
+
+.libro24{
+    width: 150px;
+    height: 200px;
+}
+
+.libro25{
+    width: 150px;
+    height: 200px;
+}
+
+
+/*TRILOGIAS*/
+
+
+.trilo1 {
+    width: 150px;
+}
+
+.trilo2 {
+    width: 130px;
+}
+
+/*OTRAS COSAS*/
+
+#tres {
+    display: flex;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin: 8%;
+}
+
+.button {
+    width: 23%;
+    float: left;
+}
+
+
+.posicionimage {
+    width: 70%;
+    float: left;
+}
+
+/*PAGINA DE LITERATURA JUVENIL*/
+a{
+    text-decoration: none;
+}
+
+.no{
+    text-align: center;
+    color: coral;
+}
+
+
+/*PAGNA DE TRILOGIAS*/
+.pe{
+    text-align: center;
+    color: plum;
+}
+

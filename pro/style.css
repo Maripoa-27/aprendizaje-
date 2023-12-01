@@ -1,0 +1,29 @@
+.cosas{
+    width: 200px;
+    height: 200px;
+    margin-left: 50px;
+    align-items: center;
+    padding-top: 100px;
+    padding-left: 150px;
+    
+}
+
+.hermosa{
+    width: 200px;
+    height: 200px;
+    margin-left: 50px;
+}
+
+.mira{
+    width: 200px;
+    height: 200px;
+    margin-left: 50px;
+
+}
+.li{
+    text-align: center;
+    font-family: 'Lilita One', cursive;
+    font-family: 'Lobster', cursive;
+    font-size: 50px;
+    
+}
