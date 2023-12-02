@@ -1,3 +1,12 @@
+H1{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+}
+
+
 .cosa {
     background-color:#C3ACD0;
 }
@@ -171,19 +180,31 @@
 }
 
 /*PAGINA DE LITERATURA JUVENIL*/
-a{
-    text-decoration: none;
-}
-
 .no{
-    text-align: center;
+    
     color: coral;
 }
 
 
 /*PAGNA DE TRILOGIAS*/
 .pe{
-    text-align: center;
+    
     color: plum;
 }
 
+/*PAGNA DE TRILOGIAS*/
+.il{
+    
+    color: cyan;
+}
+
+/* PAGINA DE ACCION */
+/* PAGINA DE AVENTURA*/
+/* PAGINA DE BOOM*/
+/* PAGINA DE CIENCIA FISION*/
+/* PAGINA DE CUENTOS*/
+/* PAGINA DE EROTICO*/
+/* PAGINA DE FANTACIA*/
+/* PAGINA DE fILOSOFICO*/
+/* PAGINA DE MISTERIO*/
+/* PAGINA DE ROMANCE*/
