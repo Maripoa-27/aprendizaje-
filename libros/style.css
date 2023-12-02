@@ -8,13 +8,19 @@ a{
 
 
 .cosa {
-    background-color:#C3ACD0;
+    background-color: #a68069;
+
 }
 
 
 .li {
     text-align: center;
-    color: mediumpurple;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.nuevo{
+    text-align: center;
+    font-family: cursive;
 }
 
 /*EDICION DE LIBROS*/
@@ -199,12 +205,50 @@ a{
 }
 
 /* PAGINA DE ACCION */
+.tu{
+    color: turquoise;
+}
+
 /* PAGINA DE AVENTURA*/
+.re{
+    color: green;
+}
+
 /* PAGINA DE BOOM*/
+.hg{
+   color: chocolate; 
+}
+
 /* PAGINA DE CIENCIA FISION*/
+.we{
+  color: cornflowerblue;  
+}
+
 /* PAGINA DE CUENTOS*/
+.sa{
+    color: darksalmon;
+}
+
 /* PAGINA DE EROTICO*/
+.mo{
+   color: red;
+}
 /* PAGINA DE FANTACIA*/
+.am{
+    color: mediumslateblue;
+}
+
 /* PAGINA DE fILOSOFICO*/
+.mu{
+    color: lightseagreen;
+}
+
 /* PAGINA DE MISTERIO*/
+.le{
+    color: midnightblue;
+}
+
 /* PAGINA DE ROMANCE*/
+.to{
+    color: peru;
+}
