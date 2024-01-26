@@ -13,6 +13,13 @@ a{
 }
 
 
+img:hover{
+    opacity: 0.5;
+    width: 125px;
+    height: 145px;
+}
+
+
 .li {
     text-align: center;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -218,6 +225,16 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 .aventura1{
     width: 150px;
     height: 200px;
+}
+
+.aventura2{
+    width: 150px;
+    height: 200px;
+    
+}
+
+.coloraventura{
+    background-color: black;
 }
 
 

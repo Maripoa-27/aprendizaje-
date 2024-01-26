@@ -4,7 +4,7 @@
     padding: 0px;
 
 }
-.contenedorcarrusel{
+.libros{
     background-color: rgb(151, 88, 209);
     border: 5px, solid, black;
     height: 300px;
@@ -48,10 +48,4 @@ section.itemcar.tres{
     align-items: center;
     justify-content: space-between;
     padding:10px;
-}
-
-.cosa{
-    height: 100px;
-    width: 100px;
-    text-align: center;
 }
